@@ -1,3 +1,3 @@
 # knet
 
-[![](eee)](/Figure_2.png)
+[![](eee)](./Figure_2.png)
